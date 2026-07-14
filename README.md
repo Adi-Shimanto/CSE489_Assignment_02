@@ -1,17 +1,31 @@
-# a2
+# CSE 489 Assignment 2
 
-A new Flutter project.
+## Navigation Drawer App with Broadcast, Image, Video & Audio
 
-## Getting Started
+A Flutter app featuring a Navigation Drawer with 4 core functionalities: Broadcast Receiver, Image Scale with Zoom, Video Player, and Audio Player.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- **Navigation Drawer** – Slide-out menu with 4 options
+- **Broadcast Receiver** – Custom broadcast (send/receive message) + Battery status display
+- **Image Scale** – Load image from URL with pinch-to-zoom + zoom buttons
+- **Video Player** – Play/Pause/Stop/Replay with progress slider
+- **Audio Player** – Play/Pause/Stop with progress slider
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Technologies
+
+- Flutter & Dart
+- video_player, audioplayers, cached_network_image
+
+
+## How to Run
+
+```bash
+flutter pub get
+flutter run
+Student Info
+
+Repository
+https://github.com/Adi-Shimanto/CSE489_Assignment_02
