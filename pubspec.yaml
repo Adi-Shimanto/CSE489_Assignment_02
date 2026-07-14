@@ -1,0 +1,40 @@
+name: a2
+description: "CSE 489 Assignment 2 - Navigation Drawer with Broadcast, Image, Video, Audio"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # UI & Icons
+  cupertino_icons: ^1.0.8
+
+  # For Navigation Drawer
+  flutter_svg: ^2.0.9
+
+  # For Image Loading from Internet
+  cached_network_image: ^3.3.0
+
+  # For Video Playback
+  video_player: ^2.8.3
+
+  # For Audio Playback
+  audioplayers: ^6.0.0
+
+  # For Battery Status (Broadcast Receiver)
+  battery_plus: ^6.0.0
+
+  # For Custom Broadcasts
+  android_intent_plus: ^5.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true

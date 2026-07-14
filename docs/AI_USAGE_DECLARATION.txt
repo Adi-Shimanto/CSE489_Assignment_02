@@ -1,0 +1,75 @@
+============================================================
+           AI USAGE DECLARATION
+============================================================
+
+Name: Md.Hasibul Islam Shiamnto
+Student ID: 21301437
+Assignment: CSE 489 Assignment 2
+Date: July 14, 2026
+
+------------------------------------------------------------
+1. AI TOOLS USED (check all that apply)
+------------------------------------------------------------
+[ ] None
+[X] ChatGPT
+[ ] GitHub Copilot
+[ ] Google Gemini
+[ ] Claude
+[ ] Cursor
+[ ] Other: ________________
+
+------------------------------------------------------------
+2. PURPOSE OF AI USE (check all that apply)
+------------------------------------------------------------
+[ ] Learning/understanding concepts
+[X] Debugging my code
+[X] Generating code snippets
+[ ] Writing text content
+[ ] Design/styling ideas
+[ ] Image generation
+[ ] Other: ________________
+
+------------------------------------------------------------
+3. DESCRIPTION OF AI USE
+------------------------------------------------------------
+I used ChatGPT as a learning and development tool for this assignment.
+The AI helped me understand Flutter concepts, generated initial widget
+structures for the navigation drawer, broadcast receiver screens,
+video player, audio player, and image scale screen. It also helped
+me debug compilation errors and understand best practices for
+state management and responsive layouts.
+
+Specifically, I used AI for:
+- Understanding Navigation Drawer implementation in Flutter
+- Generating code for Broadcast Receiver screens with spinner
+- Implementing Video Player with video_player plugin
+- Implementing Audio Player with audioplayers plugin
+- Creating Image Scale screen with pinch zoom functionality
+- Debugging issues with the app and fixing errors
+
+------------------------------------------------------------
+4. AI-ASSISTED SECTIONS
+------------------------------------------------------------
+List specific files/sections where AI helped significantly:
+
+File: lib/main.dart                    Section: Navigation Drawer structure
+File: lib/screens/broadcast_receiver_screen.dart  Section: All 3 broadcast screens
+File: lib/screens/image_scale_screen.dart         Section: Image zoom functionality
+File: lib/screens/video_screen.dart               Section: Video player implementation
+File: lib/screens/audio_screen.dart               Section: Audio player implementation
+
+------------------------------------------------------------
+5. DECLARATION
+------------------------------------------------------------
+I declare that:
+- This disclosure is complete and accurate
+- I understand all code in my submission
+- I can explain and modify my work if asked
+- I take full responsibility for my submission
+
+Signature: Md.Hasibul Islam Shiamnto
+Date: July 14, 2026
+
+============================================================
+Save as: docs/AI_USAGE_DECLARATION.txt
+============================================================
